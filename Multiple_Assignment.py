@@ -1,5 +1,4 @@
 # Variables
-from numpy.distutils.lib2def import output_def
 
 name = "Hari"
 age = 18
