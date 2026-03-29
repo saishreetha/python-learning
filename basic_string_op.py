@@ -17,3 +17,23 @@ print(message.isspace())
 print(message.isdigit())
 print(message * 5)
 print(len(message))
+
+'''
+output:
+HAPPY BIRTHDAY 
+happy birthday 
+Happy Birthday 
+Happy birthday 
+0
+-1
+harry birthday 
+Sai is"beautiful"
+False
+False
+False
+False
+False
+happy birthday happy birthday happy birthday happy birthday happy birthday 
+15
+
+'''
