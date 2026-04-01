@@ -1,5 +1,5 @@
 #Nested If
-#Logical Operators are : AND , OR
+#Logical Operators are : AND , OR , NOT
 
 num = int(input("Enter a number: "))
 
