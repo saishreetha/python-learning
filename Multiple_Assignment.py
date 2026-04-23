@@ -10,7 +10,7 @@ like = dislike = 2000
 print(like , dislike)
 
 '''
-output
+output:
 
 Hi Hari
 2000 2000
