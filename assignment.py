@@ -10,5 +10,6 @@ while True:
 
 '''
 Output :
+
 Found it! The number is: 80
 '''
