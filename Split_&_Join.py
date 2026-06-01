@@ -16,4 +16,5 @@ str_joined = ''.join(split_list)
 Output :
 ['abc', 'def', 'ghi', 'jkl', 'mno', 'pqr']
 abcdefghijklmnopqr
+
 '''
