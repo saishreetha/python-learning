@@ -29,5 +29,4 @@ print("The list of numbers is:", numbers_list)
 Output :
 
 The list of numbers is: ['3', '4', '5', '2', '8', '9']
-
 '''
