@@ -8,6 +8,7 @@ for i in range(5):
 
 
 '''
+
 Output :
 1 
 2 3 
