@@ -94,7 +94,7 @@ for food, score in sorted_foods.items():
 
 Output :
    
---- Most Popular Foods ---
+---Most Popular Foods---
 pizza - 3 votes
 pasta - 2 votes
 biryani - 2 votes
