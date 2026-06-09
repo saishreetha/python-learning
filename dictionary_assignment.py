@@ -91,6 +91,7 @@ for food, score in sorted_foods.items():
     print(food, "-", score, "votes")
 
 '''
+
 Output :
    
 --- Most Popular Foods ---
