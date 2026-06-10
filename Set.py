@@ -12,6 +12,8 @@ print(colour_list)
 set(cities)
 print(cities)
 
+
+
 '''
 
 Output :
