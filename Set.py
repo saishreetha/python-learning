@@ -13,6 +13,7 @@ set(cities)
 print(cities)
 
 '''
+
 Output :
 {'Red', 'Yellow', 'Green'}
 ['Red', 'Yellow', 'Green']
