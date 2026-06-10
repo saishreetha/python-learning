@@ -86,7 +86,7 @@ for food in just_foods:
 
 sorted_foods = dict(sorted(score_board.items(), key=lambda item: item[1], reverse=True))
 
-print("--- Most Popular Foods ---")
+print(" --- Most Popular Foods --- ")
 for food, score in sorted_foods.items():
     print(food, "-", score, "votes")
 
