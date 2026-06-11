@@ -20,5 +20,4 @@ Output :
 {'Red', 'Yellow', 'Green'}
 ['Red', 'Yellow', 'Green']
 ['Chennai', 'Madurai', 'Trichy', 'Coimbatore', 'Salem', 'Karur']
-
 '''
