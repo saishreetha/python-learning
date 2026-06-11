@@ -15,7 +15,6 @@ print(cities)
 
 
 '''
-
 Output :
 
 {'Red', 'Yellow', 'Green'}
